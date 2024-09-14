@@ -1,3 +1,7 @@
+#**Link del modelo en databricks**
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2529939703721745/68356372189147/2258973525584203/latest.html
+
 # Modelo_Vino
 
 ### Para el desarrollo de este proyecto, se utiliza la metodología CRISP-DM (Cross-Industry Standard Process for Data Mining), un método probado para extraer valor de los datos. En este proyecto solamente llegaremos hasta la fase 5
